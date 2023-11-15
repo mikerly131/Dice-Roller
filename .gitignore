@@ -110,6 +110,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Because it is showing up as a commitable file to github when this program loads in PyCharm
+.idea
+
 # Spyder project settings
 .spyderproject
 .spyproject
